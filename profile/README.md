@@ -27,18 +27,6 @@
 
 No installation. No unnecessary complexity. Just fast, focused tools for the modern 3D workflow.
 
----
-
-### / SUPPORTED FORMATS
-
-`GLB` • `glTF` • `OBJ` • `STL` • `PLY` • `FBX` • `ZIP`
-
----
-
-### / PLATFORM
-
-**GLBKit** — Modern browser-based tools for 3D workflows.
-
 <p align="center">
   <a href="https://glbkit.com">www.glbkit.com</a>
 </p>
