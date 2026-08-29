@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=GLBKIT&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=GLBKIT&fontSize=64&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%" />
 
-### Modern browser-based tools for 3D workflows.
+# <strong>Modern browser-based tools for 3D workflows.</strong>
 
-Building professional tools for developers, designers, and technical artists working with GLB, glTF, and WebGL.
+## Tools for viewing, inspecting, analyzing, and capturing 3D models directly in the browser.
 
 <p>
   <a href="https://glbkit.com">Website</a>
@@ -12,40 +12,21 @@ Building professional tools for developers, designers, and technical artists wor
 
 </div>
 
-## About
+## Tools
 
-GLBKIT develops browser-native tools that simplify modern 3D workflows. Our products are designed to deliver fast, reliable, and production-ready experiences directly in the browser.
+* **3D Model Viewer** — View and inspect GLB, glTF, OBJ, STL, PLY, FBX, and ZIP models.
+* **Model Screenshot** — Capture high-resolution screenshots from 3D models.
+* **3D Model Info** — Inspect model structure, scenes, meshes, materials, and assets.
+* **Camera Tools** — Control and configure 3D model views.
+* **Materials** — Inspect and customize model materials.
+* **Background & Environment** — Customize model scenes and environments.
 
-## Products
+## Built For
 
-### GLBKIT
-
-An online toolkit for viewing, inspecting, validating, and exporting GLB and glTF assets.
-
-**Current capabilities**
-
-- GLB & glTF Viewer
-- ZIP Archive Support
-- Asset Inspection
-- Scene Preview
-- Screenshot Capture
-- Browser-based Rendering
-
-## Technology
-
-| | |
-|:--|:--|
-| **Framework** | Next.js |
-| **Language** | TypeScript |
-| **Graphics** | Three.js |
-| **Rendering** | WebGL |
-
-## Mission
-
-To build modern browser-based tools that make working with 3D assets faster, simpler, and more accessible.
+GLB • glTF • OBJ • STL • PLY • FBX • ZIP • WebGL • Three.js
 
 <div align="center">
 
-`GLBKIT` • `Modern 3D Developer Tools`
+`GLBKIT` • `Modern 3D Tools`
 
 </div>
