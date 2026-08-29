@@ -1,32 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=GLBKIT&fontSize=64&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%" />
+<h1 style="font-size: 56px; font-weight: 800;">G L B K I T</h1>
 
-# <strong>Modern browser-based tools for 3D workflows.</strong>
-
-## Tools for viewing, inspecting, analyzing, and capturing 3D models directly in the browser.
+<p><i>MODERN 3D ASSET TOOLKIT</i></p>
 
 <p>
-  <a href="https://glbkit.com">Website</a>
+  <b>✦ BROWSER-NATIVE 3D WORKFLOWS</b><br>
+  <i>Professional tools for viewing, inspecting, analyzing, and capturing 3D assets directly in the browser.</i>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GLB_%7C_glTF-3D_Assets-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engine-Three.js_%7C_WebGL-white?style=flat-square" />
+  <img src="https://img.shields.io/badge/Runtime-Browser--Native-black?style=flat-square" />
 </p>
 
 </div>
 
-## Tools
+---
 
-* **3D Model Viewer** — View and inspect GLB, glTF, OBJ, STL, PLY, FBX, and ZIP models.
-* **Model Screenshot** — Capture high-resolution screenshots from 3D models.
-* **3D Model Info** — Inspect model structure, scenes, meshes, materials, and assets.
-* **Camera Tools** — Control and configure 3D model views.
-* **Materials** — Inspect and customize model materials.
-* **Background & Environment** — Customize model scenes and environments.
+### / THE MISSION
 
-## Built For
+> *"Make professional 3D workflows accessible directly in the browser."*
 
-GLB • glTF • OBJ • STL • PLY • FBX • ZIP • WebGL • Three.js
+**GLBKit** builds modern browser-based tools for developers, designers, and 3D creators working with 3D assets.
+
+No installation. No unnecessary complexity. Just fast, focused tools for the modern 3D workflow.
+
+---
+
+### / SUPPORTED FORMATS
+
+`GLB` • `glTF` • `OBJ` • `STL` • `PLY` • `FBX` • `ZIP`
+
+---
+
+### / PLATFORM
+
+**GLBKit** — Modern browser-based tools for 3D workflows.
+
+<p align="center">
+  <a href="https://glbkit.com">www.glbkit.com</a>
+</p>
 
 <div align="center">
 
-`GLBKIT` • `Modern 3D Tools`
+`G L B K I T` • `BROWSER-NATIVE 3D TOOLS`
 
 </div>
