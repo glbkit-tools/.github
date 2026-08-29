@@ -10,7 +10,8 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/GLB_%7C_glTF_%7C_OBJ_%7C_FBX_%7C_STL_%7C_PLY_%7C_ZIP-3D_Formats-black?style=flat-square" />  <img src="https://img.shields.io/badge/Engine-Three.js_%7C_WebGL-white?style=flat-square" />
+  <img src="https://img.shields.io/badge/GLB_%7C_glTF_%7C_OBJ_%7C_ZIP_%7C_Other-3D_Formats-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engine-Three.js_%7C_WebGL-white?style=flat-square" />
   <img src="https://img.shields.io/badge/Runtime-Browser--Native-black?style=flat-square" />
 </p>
 
@@ -29,9 +30,3 @@ No installation. No unnecessary complexity. Just fast, focused tools for the mod
 <p align="center">
   <a href="https://glbkit.com">www.glbkit.com</a>
 </p>
-
-<div align="center">
-
-`G L B K I T` • `BROWSER-NATIVE 3D TOOLS`
-
-</div>
